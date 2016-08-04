@@ -1,0 +1,28 @@
+_repo: The-Conquest-of-the-Old-Southwest--the-romantic-story-of-the-early-pioneers-into-Virginia-the-__2390
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henderson, Archibald
+    birthdate: 1877
+    deathdate: 1963
+    gutenberg_agent_id: '890'
+    url: http://www.gutenberg.org/2009/agents/890
+description: ''
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southwest, Old -- History'
+- !lcc 'F396'
+- !lcsh 'Tennessee -- History'
+- !lcsh 'Frontier and pioneer life -- Southwest, Old'
+- !lcsh 'Kentucky -- History -- To 1792'
+- GITenberg
+title: The Conquest of the Old Southwest; the romantic story of the early pioneers
+  into Virginia, the Carolinas, Tennessee, and Kentucky, 1740-1790
+url: http://www.gutenberg.org/ebooks/2390
